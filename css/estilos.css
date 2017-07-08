@@ -47,4 +47,14 @@ footer {
 img{
 	border-radius: 10px;
 	border: 2px solid steelblue;
+	margin: 10px;
+}
+
+.ver{
+	display: inline-block;
+	font-size: 30px;
+	color: red;
+	background-color: steelblue;
+	padding: 20px;
+	margin: 10px;
 }
