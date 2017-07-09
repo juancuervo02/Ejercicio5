@@ -73,3 +73,9 @@ h1:hover{
 	color: seagreen;
 	margin: 10px;
 }
+
+h3{
+	text-transform: uppercase;
+	color: red;
+	margin: 20px;
+}
